@@ -1,19 +1,14 @@
-## Hi there 👋
 
-<!--
-**DaddyNequis/DaddyNequis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre> ```txt
+_____   __      ________________________________            
+___  | / /___  ____  /__  /__  __ \__(_)_____  /____________
+__   |/ /_  / / /_  /__  /__  /_/ /_  /_  __  /_  _ \_  ___/
+_  /|  / / /_/ /_  / _  / _  _, _/_  / / /_/ / /  __/  /    
+/_/ |_/  \__,_/ /_/  /_/  /_/ |_| /_/  \__,_/  \___//_/     
+                                                            
+                                                                                                            
+ ``` </pre>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <!-- Embedded / Hardware -->
   <img alt="Espressif" src="https://img.shields.io/badge/-Espressif-%23E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -27,6 +22,15 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
+
+  <!-- .NET UI Frameworks -->
+  <img alt="WPF" src="https://img.shields.io/badge/-WPF-%23512BD4?style=flat-square&logo=windows&logoColor=white"/>
+  <img alt="WinForms" src="https://img.shields.io/badge/-WinForms-%23512BD4?style=flat-square&logo=windows&logoColor=white"/>
+  <img alt="Console" src="https://img.shields.io/badge/-Console%20Apps-%23512BD4?style=flat-square&logo=console&logoColor=white"/>
+
+  <!-- Patterns -->
+  <img alt="MVC" src="https://img.shields.io/badge/-MVC-%23512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="MVVM" src="https://img.shields.io/badge/-MVVM-%23512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
   <!-- Databases -->
   <img alt="MS SQL" src="https://img.shields.io/badge/-MS%20SQL-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
