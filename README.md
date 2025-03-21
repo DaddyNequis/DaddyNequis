@@ -4,19 +4,23 @@ __   |/ /_  / / /_  /__  /__  /_/ /_  /_  __  /_  _ \_  ___/
 _  /|  / / /_/ /_  / _  / _  _, _/_  / / /_/ / /  __/  /    
 /_/ |_/  \__,_/ /_/  /_/  /_/ |_| /_/  \__,_/  \___//_/     
                         N U L L   R I D E R                                                         
-━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─≪✠≫━─━─━─━─━─━─━─━─━─━─━─━──━─━─━
+━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─≪✠≫━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━──━─━─━
 
 ## Who is NullRider?
 
 A whisper in the logs... a glitch in your stack trace... a pull request at 3:33 AM.
 
-I'm **NullRider**, a software developer forged in the shadows of deprecated code and endless cigarettes. I write bugs professionally — and sometimes fix them.  
-I believe in clean architecture, dirty commits, and the occasional overengineered solution for a simple problem.
+I'm **NullRider**, a software developer forged in the shadows of deprecated code and endless
+cigarettes. I write bugs professionally — and sometimes fix them.  
+  
+I believe in clean architecture, dirty commits, and the occasional overengineered solution 
+for a simple problem.
 
-Whether it's .NET spells, ESP32 sorcery, or Docker incantations — I’m probably lurking in a terminal somewhere, breaking things just to learn how to fix them.
+Whether it's .NET spells, ESP32 sorcery, or Docker incantations — I’m probably lurking in 
+a terminal somewhere, breaking things just to learn how to fix them.
 
 Proceed with caution.
-
+━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─≪✠≫━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━──━─━─━
 </pre>
 
 <p align="center">
